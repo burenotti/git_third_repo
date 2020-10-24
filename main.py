@@ -2,4 +2,4 @@ a = int(input("a: "))
 b = int(input("b: "))
 c = int(input("c: "))
 
-print(f"{a} + {b} + {c} = {a+b+c}")
+print(f"2*({a} + {b} + {c}) = {2*(a+b+c)}")
